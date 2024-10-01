@@ -1,0 +1,284 @@
+ <!--https://pt.seaicons.com/category/animal
+    https://www.pngegg.com/pt/png-yuxkf (foto pro professor)-->
+
+<html>
+    <head>
+        <!--Comentário-->
+        <title>Campeões League of Legends</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;700&display=swap" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+        <link href="style.css" rel="stylesheet" />
+        <link rel="imagem icon"
+    href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNdDfXYITCltKwICOVqSVk5q7Db5Ql3trfQA&usqp=CAU"
+    pype="imagem/x=icon">
+        <!--para mim o style css n está funcionado. então criei esse-->
+        <style>
+         
+         .teste{
+           transition: transform 1s;
+        }
+        .teste:hover{
+           transform: scale(0.9);
+  
+         }
+         .teste2{
+           transition: transform 1s;
+        }
+        .teste2:hover{
+           transform: scale(1.5);
+        }
+
+         .mudarcor{
+         transition: color 0.5s;
+         }
+         .mudarcor:hover{
+         color: daa520;
+  
+  }
+
+         img.icon{
+             width: 200px;
+             height: 200px;
+         }
+
+         div#camp{
+             height: 400px;
+         }
+        </style>
+
+    </head>
+    <body>
+        <section class="main">
+            <div class="center">
+                <div class="menu">
+                    <div class="logo-menu">
+                       
+                    </div>
+                    <div class="items-menu">
+                        <a href="#campeao">Campeões</a>
+                        <a href="https://universe.leagueoflegends.com/pt_BR/champions/" target="_blank"
+                        rel="external">Todos os campeões</a>
+                    </div>
+                    <div class="items-menu-mobile">
+                        <i class="fa fa-bars" aria-hidden="true"></i>
+                        <div class="menu-mobile">
+                            <a href="#campeao">Campeões</a>
+                            <a href="https://universe.leagueoflegends.com/pt_BR/champions/" target="_blank"
+                            rel="external" >Todos os campeões</a>
+
+                        </div>
+                    </div>
+                </div><!--menu-->
+
+                <div class="mockup">
+                    <h1 class="mudarcor teste2">CAMPEÕES DE</h1>
+                    <br>
+                    <img src="" />
+                </div><!--mockup-->
+
+            </div><!--center-->
+        </section><!--main-->
+
+
+        <section class="marcas">
+            <div class="centro">
+                <h1 class="publi teste2 mudarcor">Jogos da Riot Games</h1>
+                <br>
+                <img class="teste" src="https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LeagueofLegends_RiotGames_S1_2560x1440-ee500721c06da3ec1e5535a88588c77f" />
+                <img class="teste" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiRG0N_HyRchvMnlGHCaKJYvvSCScTANB1CQ&usqp=CAU" />
+                <img class="teste" src="https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/EGS_VALORANT_RiotGames_S1_2560x1440-3125163f455ac6413de04a2343e6742b" />
+                <img class="teste" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSJkgPwI4fTYB7R92KGFxcdLQOtp7LfAbj0w&usqp=CAU" />
+                <img class="teste" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT9SJ7KxMGk_Ow5-ruoMWk0XEgzi5fx865Qw&usqp=CAU" />
+
+            </div><!--center-->
+        </section><!--marcas-->
+
+      
+        <section class="porque-nos">
+            <div class="center">
+                <h2 class="centro teste2 mudarcor">Mas, o que é um Campeão?</h2>
+
+                <div class="diferenciais">
+                    <div class="box-diferenciais">
+                        <img class="icon teste"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqwEdrNKqxJTegkNy4JJzmvLfce89rG9wBlg&usqp=CAU" />
+                        <p>Para que você conheça as classes de Campeões do LoL talvez seja preciso, primeiro, saber definir o que eles são. E isso é muito simples: o Campeão, falando de forma bem objetiva, é o personagem que pode ser controlado pelo jogador.</p>
+                    </div>
+                    <div class="box-diferenciais">
+                        <img class="icon teste" src="https://pt.seaicons.com/wp-content/uploads/2015/07/Zed-Shockblade-icon.png" />
+                        <p>Cada um destes bonecos conta com características próprias. E não estamos aqui falando somente de visual, roupas ou aparência. Cada Campeão conta com movimentos únicos, poderes, forças e, é claro, fraquezas características. E, como a própria Riot diz, “todo mundo tem um estilo de jogo, mas qual será o seu? Só tem um jeito de saber…”. </p>
+                    </div>
+                    <div class="box-diferenciais">
+                        <img class="icon teste" src="https://pt.seaicons.com/wp-content/uploads/2015/07/Zac-Special-Weapon-icon.png" />
+                        <p>No League of Legends você tem a chance de escolher entre mais de 130 personagens diferentes. Pois é, os Campeões do LoL são muitos. Para ajudar na organização essa turma toda está distribuída em categorias chamadas de Classes. São elas: Assassino, Mago, Lutador, Atirador, Controlador ou Suporte, Tanque e Únicos.</p>
+                    </div>
+                </div><!--diferenciais-->
+
+
+
+            </div><!--center-->
+        </section><!--porquenos-->
+
+        <section class="cta">
+
+        </section><!--cta-->
+
+        <section class="beneficios">
+            <div style="max-width: 1280px;" class="center">
+                <div class="lista-beneficios">
+                    <h1 class="teste2 mudarcor">Arcane</h1>
+                    <br/>
+                    <p id="arcane">Arcane é a nova animação da Netflix baseada em League of Legends, jogo de sucesso da Riot Games que estreou 6 de novembro de 2021 na Netflix. Composta por três episódios iniciais, a série vai contar a história da rivalidade entre duas irmãs, Jinx e Vi e nos mostrar alguns cenários e personagens icônicos e familiares de LoL.<span></span></p>
+                </div>
+                <div class="img-beneficios">
+                    <img src="https://cdn.folhape.com.br/upload/dn_arquivo/2021/11/arcane.jpg" />
+                </div>
+            </div><!--center-->
+        </section><!--beneficios-->
+
+
+        <section id="campeao" class="depoimentos">
+            <h1 class="mudarcor teste2">Campeões</h1>
+            <div style="display:block;" class="center">
+                <br/>
+                <div style="max-width: 1200px;" id="camp" class="container-slider">
+                    <div class="container-slider-single">
+                        <img class="icon" src="https://t00.deviantart.net/CnJs0nISxnpBMngWe_GVMEMTMr4=/300x200/filters:fixed_height(100,100):origin()/pre00/f331/th/pre/f/2014/147/e/1/karthus_by_fazie69-d7k1jbn.png"/>
+                        <h3>Karthus</h3>
+                        <p>Karthus é uma criatura terrível que, outrora, foi um mortal tão obcecado com a morte que acabou abraçado à dádiva da desmorte. Agora, em sua vida após a morte como um Lich, Karthus está mais próximo do que poderia imaginar de seu amado túmulo.</p>
+                
+                    </div>
+                    
+                    <div class="container-slider-single">
+                        <img class="icon" src="https://t00.deviantart.net/UpIr6v_khiRoWsxUwsXmp3Q-jmM=/300x200/filters:fixed_height(100,100):origin()/pre00/7a03/th/pre/f/2014/141/6/9/night_hunter_rengar_by_fazie69-d7j60c6.png"/>
+                        <h3>Rengar</h3>
+                        <p>Rengar é um feroz caçador de troféus vastaya que gosta da emoção proporcionada pela caça e pelo abate de criaturas perigosas. Ele vasculha o mundo em busca das feras mais perigosas que pode encontrar, procurando principalmente por Kha'Zix, a criatura do vazio que arrancou seu olho.</p>
+
+                    </div>
+
+                    <div class="container-slider-single">
+                        <img class="icon" src="https://t00.deviantart.net/R0FHcNJRvtF_CMCoHPSRFAw2rzI=/300x200/filters:fixed_height(100,100):origin()/pre00/2069/th/pre/f/2014/121/7/3/blade_queen_lissandra_by_fazie69-d7go146.png"/>
+                        <h3>Lissandra</h3>
+                        <p>Como a líder reclusa dos Praeglacius, muitos acreditam que Lissandra é uma santa viva cujos seguidores trazem cura e sabedoria às tribos de Freljord.</p>
+     
+                    </div>
+
+                    <div class="container-slider-single">
+                        <img class="icon" src="https://th.bing.com/th/id/R.28a737d43bbd8d052e44fe09108a2068?rik=1L%2fZeirCVt0Z8Q&riu=http%3a%2f%2ft09.deviantart.net%2fpq23DUIFZDiUgR0vgaaAs0HRhd8%3d%2f300x200%2ffilters%3afixed_height(100%2c100)%3aorigin()%2fpre15%2fb35b%2fth%2fpre%2ff%2f2014%2f220%2fb%2f1%2friot_kayle_by_fazie69-d7u961q.png&ehk=sOhuyRT8RckeGcJ0XMTDUOtJwFKBkDMJSGmxdF78d%2fQ%3d&risl=&pid=ImgRaw&r=0"/>
+                        <h3>Kayle</h3>
+                        <p>Nascida de um Aspecto targonense no auge das Guerras Rúnicas, Kayle honrava o legado de sua mãe lutando por justiça com asas de chamas divinas. Ela e sua irmã gêmea, Morgana, foram as protetoras de Demacia por muitos anos, até Kayle se desiludir com as repetidas falhas dos mortais e abandonar de vez o plano mortal.</p>
+ 
+                    </div>
+
+                    <div class="container-slider-single">
+                        <img class="icon" src="https://t00.deviantart.net/JKKgA8nq-YTLMzvHX9v7Npc4-sw=/300x200/filters:fixed_height(100,100):origin()/pre00/1146/th/pre/f/2014/339/1/6/eternum_rek_sai_by_fazie69-d88r3td.png"/>
+                        <h3>Rek'Sai</h3>
+                        <p>A predadora perfeita, Rek'Sai é uma criatura do Vazio sem piedade que anda por túneis no subsolo para emboscar e devorar vítimas desavisadas. Sua fome insaciável já destruiu regiões inteiras do outrora gigantesco império de Shurima.</p>
+    
+                    </div>
+
+                    <div class="container-slider-single">
+                        <img class="icon" src="https://t00.deviantart.net/zMsFgnZ3sXYxXB6vuT5DCDMsOOs=/300x200/filters:fixed_height(100,100):origin()/pre00/fac8/th/pre/f/2014/015/3/3/diana_lunar_goddess_by_fazie69-d72bnrs.png"/>
+                        <h3>Diana</h3>
+                        <p>Com uma brilhante armadura da cor da neve invernal na madrugada e empunhando sua espada lunar crescente, Diana é a personificação do poder da lua prateada. Dotada com a essência de um Aspecto vindo de além do cume de Targon, Diana já não é mais totalmente humana e luta para entender seu poder e propósito neste mundo.</p>
+
+                    </div>
+
+                    <div class="container-slider-single">
+                        <img class="icon" src="https://t00.deviantart.net/U6vqGuOArQNWHFXvwqCZqPJ5HPM=/300x200/filters:fixed_height(100,100):origin()/pre00/fea6/th/pre/f/2015/009/4/c/challenger_ahri_by_fazie69-d8d8spd.png"/>
+                        <h3>Ahri</h3>
+                        <p>As origens de Ahri são um grande mistério até para si mesma. ... Naquela existência selvagem e predatória, Ahri sentia uma grande conexão com as florestas que a cercavam. Com o tempo, ela passou a entender que isso se devia à magia vastaya que pulsava em suas veias e ao reino espiritual que estava além de tudo aquilo</p>
+
+                    </div>
+
+                    <div class="container-slider-single">
+                        <img class="icon" src="https://t00.deviantart.net/PV36e90VGynnHdk4fpMH2IPj044=/300x200/filters:fixed_height(100,100):origin()/pre00/67d5/th/pre/f/2014/089/f/9/void_fizz_by_fazie69-d7ca2co.png"/>
+                        <h3>Fizz</h3>
+                        <p>Fizz é um yordle anfíbio que vive entre os recifes que rodeiam as Águas de Sentina. É comum que ele busque e devolva os dízimos jogados no mar por capitães supersticiosos, mas mesmo o mais velho dos marinheiros sabe que não é uma boa ideia irritá-lo.</p>
+
+                    </div>
+
+                    <div class="container-slider-single">
+                        <img class="icon" src="https://t00.deviantart.net/qhu2_ep836eSf-3JW7DwUvwnOTA=/300x200/filters:fixed_height(100,100):origin()/pre00/d70d/th/pre/f/2013/301/0/d/officer_vi_by_fazie69-d6s4asf.png"/>
+                        <h3>Vi</h3>
+                        <p> Vi é uma mulher temível, impulsiva e explosiva que tem muito pouco respeito por autoridades. Após ter crescido completamente só, Vi desenvolveu instintos de sobrevivência extremamente certeiros e um senso de humor extremamente ácido. Agora trabalhando com os Vigias de Piltover para manter a paz, ela porta poderosas manoplas hextec capazes de esmagar paredes e suspeitos com a mesma facilidade.</p>
+
+                    </div>
+
+                    <div class="container-slider-single">
+                        <img class="icon" src="https://th.bing.com/th/id/OIP.YyWclgTUKLWanNxo5s472wAAAA?pid=ImgDet&rs=1"/>
+                        <h3>Kalista</h3>
+                        <p>Em vida, Kalista era uma general altiva e sobrinha do rei de um império há muito esquecido. Ela seguia um rígido código de honra e sua lealdade ao trono era inabalável. O rei tinha muitos inimigos e, quando um assassino foi enviado para matá-lo, foi a vigilância de Kalista que evitou a tragédia.</p>
+
+                    </div>
+
+                    <div class="container-slider-single">
+                        <img class="icon" src="https://t00.deviantart.net/syZ414HV_rygjufO1JYv7Sm2aEs=/300x200/filters:fixed_height(100,100):origin()/pre00/6c94/th/pre/f/2014/285/a/c/rumble_by_fazie69-d82iogp.png"/>
+                        <h3>Rumble</h3>
+                        <p>Rumble é um jovem inventor irritadiço. Usando nada além de suas próprias mãos e uma pilha de sucata, o yordle briguento construiu um mecha colossal montado com um arsenal de arpões eletrificados e foguetes incendiários. Apesar de outros rirem de suas criações de ferro-velho, Rumble não se importa.</p>
+
+                    </div>
+
+                    <div class="container-slider-single">
+                        <img class="icon" src="https://t00.deviantart.net/uW1ItLzOy4XfUZQVpQKHfN7TRLQ=/300x200/filters:fixed_height(100,100):origin()/pre00/01c1/th/pre/f/2013/235/6/2/hired_gun_lucian_by_fazie69-d6je8y2.png"/>
+                        <h3>Lucian</h3>
+                        <p>Lucian, um Sentinela da Luz, é um caçador de espíritos imortais que usa suas pistolas relicárias para persegui-los implacavelmente e, por fim, aniquilá-los. Após o assassinato de sua esposa pelas mãos do espectro Thresh, Lucian embarcou em uma jornada de vingança.</p>
+
+                    </div>
+
+
+                    
+            </div>
+
+        </section>
+        <footer>
+            <div style="max-width: 1280px;" class="center">
+                <div class="text-footer">
+                    <p>Todos os direitos reservados a Campeões de league of Legends</p>
+                </div>
+                <div class="items-menu">
+                    <a href="index.html">Início</a>
+                </div>
+            </div>
+        </footer>
+
+        <script src="jquery.js"></script>
+        <script src="slick.min.js"></script>
+        <script>
+                $('.container-slider').slick({
+                dots: true,
+                arrows:false,
+                speed:1000,
+                slidesToShow: 3,
+                slidesToScroll: 3,
+                autoplay: true,
+                autoplaySpeed: 3000,
+                pauseOnHover:false,
+                responsive: [
+                            {
+                              breakpoint: 768,
+                              settings: {
+                                slidesToShow: 1,
+                                slidesToScroll: 1
+                              }
+                            }],
+                });
+        </script>
+        <script>
+            var menuBtn = document.querySelector('.items-menu-mobile i');
+            menuBtn.addEventListener('click',()=>{
+                let itemsMenu = document.querySelector('.menu-mobile');
+                if(itemsMenu.classList.contains('show')){
+                    itemsMenu.classList.remove('show');
+                    itemsMenu.classList.add('hide');
+                }else{
+                    itemsMenu.classList.remove('hide');
+                    itemsMenu.classList.add('show');
+                }
+                
+            });
+        </script>
+        
+    </body>
+</html>
